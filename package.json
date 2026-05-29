@@ -1,9 +1,10 @@
 {
-  "name": "sbom-test",
+  "name": "react-vuln-test",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "lodash": "4.17.15",
-    "minimist": "0.0.8"
+    "react": "16.8.0",
+    "react-dom": "16.8.0",
+    "axios": "0.21.0"
   }
 }
